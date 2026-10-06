@@ -101,10 +101,12 @@ scripts/               build · dev · export · extract (의존성 없는 Node 
 - 시즌 기록: Kaggle KBO Player Dataset(1982–2025, WAR 포함), [DrunkJin/kbo-144-0](https://github.com/DrunkJin/kbo-144-0) 정리본
 - 수비 기록: KBO 공식 수비 기록(2001–2025)
 - 좌우·생년월일·계약금: KBO 공식 선수 기록
-- 연봉: 야구나라(2005~), 각 구단 연봉 계약 발표 기사, 1982~2004년 신문 기사(경향·한국일보·OSEN 등)
+- 연봉: 각 구단 연봉 계약 발표 기사, 1982~2004년 신문 기사 참조
 - 수상: KBO 골든글러브·MVP 기록
 
-팬 프로젝트이며 KBO 및 각 구단과 관련이 없습니다. 원 데이터의 이용 조건은 각 출처를 따릅니다.
+팬 프로젝트이며 KBO 및 각 구단과 관련이 없습니다. 원 데이터의 이용 조건은 각 출처를 따르며, 원본 출처를 존중합니다.
 
 ## 폰트
 Galmuri14 — Minseo Lee, [SIL Open Font License 1.1](https://github.com/quiple/galmuri). 게임에 쓰는 글자만 남긴 서브셋입니다.
+
+Coded by Claude
