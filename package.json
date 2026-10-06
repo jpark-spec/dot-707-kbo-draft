@@ -1,0 +1,15 @@
+{
+  "name": "kbo-707",
+  "version": "1.0.0",
+  "description": ".707 — 144-0 like KBO All-time Draft Game",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/dev.mjs",
+    "start": "node scripts/dev.mjs",
+    "export": "node scripts/export.mjs",
+    "extract": "node scripts/extract.mjs"
+  }
+}
